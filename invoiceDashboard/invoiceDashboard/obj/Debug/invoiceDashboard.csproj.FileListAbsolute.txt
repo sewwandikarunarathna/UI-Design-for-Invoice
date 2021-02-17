@@ -1,0 +1,10 @@
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\bin\Debug\invoiceDashboard.exe.config
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\bin\Debug\invoiceDashboard.exe
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\bin\Debug\invoiceDashboard.pdb
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.csprojAssemblyReference.cache
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.Dashboard.resources
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.Properties.Resources.resources
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.csproj.GenerateResource.cache
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.csproj.CoreCompileInputs.cache
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.exe
+D:\quadrate\ui for invoice\invoiceDashboard\invoiceDashboard\obj\Debug\invoiceDashboard.pdb
